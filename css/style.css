@@ -8,11 +8,11 @@
 /*----------------------------------------*/
 /* Template default CSS
 /*----------------------------------------*/
-html,
-body {
-	height: 100%;
-	font-family: 'Josefin Sans', sans-serif;
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
 }
+
 
 h1,
 h2,
